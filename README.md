@@ -96,15 +96,3 @@ This project is a full-stack web application designed to streamline the process 
      
 
 5. *Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the application running.*
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to further customize this README file to better suit your project's specific requirements and branding!
